@@ -3,7 +3,7 @@ using System.Collections.Generic;
 namespace ShapeTracker.Models 
 {
   public class Triangle 
-  {
+    {
     private int _side1;
     public int Side1
     {
